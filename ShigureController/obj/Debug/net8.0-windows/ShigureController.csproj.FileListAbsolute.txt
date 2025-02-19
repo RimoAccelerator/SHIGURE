@@ -1,0 +1,16 @@
+D:\Engineering\Shigure\ShigureController\ShigureController\obj\Debug\net8.0-windows\ShigureController.Form1.resources
+D:\Engineering\Shigure\ShigureController\ShigureController\obj\Debug\net8.0-windows\ShigureController.csproj.GenerateResource.cache
+D:\Engineering\Shigure\ShigureController\ShigureController\obj\Debug\net8.0-windows\ShigureController.GeneratedMSBuildEditorConfig.editorconfig
+D:\Engineering\Shigure\ShigureController\ShigureController\obj\Debug\net8.0-windows\ShigureController.AssemblyInfoInputs.cache
+D:\Engineering\Shigure\ShigureController\ShigureController\obj\Debug\net8.0-windows\ShigureController.AssemblyInfo.cs
+D:\Engineering\Shigure\ShigureController\ShigureController\obj\Debug\net8.0-windows\ShigureController.csproj.CoreCompileInputs.cache
+D:\Engineering\Shigure\ShigureController\ShigureController\bin\Debug\net8.0-windows\ShigureController.exe
+D:\Engineering\Shigure\ShigureController\ShigureController\bin\Debug\net8.0-windows\ShigureController.deps.json
+D:\Engineering\Shigure\ShigureController\ShigureController\bin\Debug\net8.0-windows\ShigureController.runtimeconfig.json
+D:\Engineering\Shigure\ShigureController\ShigureController\bin\Debug\net8.0-windows\ShigureController.dll
+D:\Engineering\Shigure\ShigureController\ShigureController\bin\Debug\net8.0-windows\ShigureController.pdb
+D:\Engineering\Shigure\ShigureController\ShigureController\obj\Debug\net8.0-windows\ShigureController.dll
+D:\Engineering\Shigure\ShigureController\ShigureController\obj\Debug\net8.0-windows\refint\ShigureController.dll
+D:\Engineering\Shigure\ShigureController\ShigureController\obj\Debug\net8.0-windows\ShigureController.pdb
+D:\Engineering\Shigure\ShigureController\ShigureController\obj\Debug\net8.0-windows\ShigureController.genruntimeconfig.cache
+D:\Engineering\Shigure\ShigureController\ShigureController\obj\Debug\net8.0-windows\ref\ShigureController.dll
